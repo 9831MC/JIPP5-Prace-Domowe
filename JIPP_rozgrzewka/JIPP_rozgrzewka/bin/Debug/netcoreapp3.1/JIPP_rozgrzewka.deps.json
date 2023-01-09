@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JIPP_rozgrzewka/1.0.0": {
+        "runtime": {
+          "JIPP_rozgrzewka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JIPP_rozgrzewka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

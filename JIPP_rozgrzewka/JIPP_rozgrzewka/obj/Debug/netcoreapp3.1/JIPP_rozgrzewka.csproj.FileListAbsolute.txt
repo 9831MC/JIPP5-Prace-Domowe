@@ -1,0 +1,14 @@
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\bin\Debug\netcoreapp3.1\JIPP_rozgrzewka.exe
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\bin\Debug\netcoreapp3.1\JIPP_rozgrzewka.deps.json
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\bin\Debug\netcoreapp3.1\JIPP_rozgrzewka.runtimeconfig.json
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\bin\Debug\netcoreapp3.1\JIPP_rozgrzewka.runtimeconfig.dev.json
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\bin\Debug\netcoreapp3.1\JIPP_rozgrzewka.dll
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\bin\Debug\netcoreapp3.1\JIPP_rozgrzewka.pdb
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\obj\Debug\netcoreapp3.1\JIPP_rozgrzewka.csproj.AssemblyReference.cache
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\obj\Debug\netcoreapp3.1\JIPP_rozgrzewka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\obj\Debug\netcoreapp3.1\JIPP_rozgrzewka.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\obj\Debug\netcoreapp3.1\JIPP_rozgrzewka.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\obj\Debug\netcoreapp3.1\JIPP_rozgrzewka.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\obj\Debug\netcoreapp3.1\JIPP_rozgrzewka.dll
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\obj\Debug\netcoreapp3.1\JIPP_rozgrzewka.pdb
+C:\Users\Mateusz\source\repos\JIPP_rozgrzewka\JIPP_rozgrzewka\obj\Debug\netcoreapp3.1\JIPP_rozgrzewka.genruntimeconfig.cache
